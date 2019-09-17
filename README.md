@@ -1,7 +1,7 @@
 # StratosU-VControlProgram.01
 StratosU-VControlProgram.01
 
-Control one adafruit dc motor and have camera view of a raspicam in real time IN pygame display over wifi or cable.
+Control one adafruit DC motor (4 DC motors can be use and have camera view of a raspicam in real time IN pygame display over wifi or cable.
 pygame+opencv+adafruit+raspberry = a perfect combo for  robots or Unnmaned.Vehicles with A.I image filterings, 100m range can be better range with wifi repetiter...) very good battery autonomous, lightweight affordable...
 
 
